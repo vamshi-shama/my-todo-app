@@ -7,6 +7,9 @@ body {
   }
   
   .app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     width: 500px;
     margin: 50px auto;
     background-color: #444;
@@ -61,3 +64,8 @@ body {
     color: #999;
   }
   
+  @media (max-width: 576px) {
+    .form, .todos {
+      padding: 0.5rem;
+    }
+  }
