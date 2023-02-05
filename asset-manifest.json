@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//vamshi-shama.github.io/my-todo-app/static/css/main.7073cce3.css",
+    "main.js": "//vamshi-shama.github.io/my-todo-app/static/js/main.bfdea546.js",
+    "index.html": "//vamshi-shama.github.io/my-todo-app/index.html",
+    "main.7073cce3.css.map": "//vamshi-shama.github.io/my-todo-app/static/css/main.7073cce3.css.map",
+    "main.bfdea546.js.map": "//vamshi-shama.github.io/my-todo-app/static/js/main.bfdea546.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7073cce3.css",
+    "static/js/main.bfdea546.js"
+  ]
+}
